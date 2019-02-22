@@ -4,7 +4,7 @@ Abduction-and-Kidnapping-analysis
 
 
 This is an exploratory analysis of the dataset of abduction and kidnapping in india (2001-2010).
-I found some usefull things in the dataset which is of last 10 years.
+I found some usefull things in the dataset like how many abduction and kidnapping happend in each and every state till 2010 from 2001.
 
 By using bar graph I am showing the number of people are being kidnapped or abducted in the last 10 years.
 
